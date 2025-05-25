@@ -1,0 +1,9 @@
+Summary of Sensor Data:
+
+- Temperature remained within optimal 20–25°C range.
+- Humidity fluctuated between 35% and 45%, matching recommended levels.
+- Motion detection showed periodic occupancy during school hours.
+- Distance average ~100cm, aligned with 1-meter distancing guidelines.
+
+Insights:
+System functioned effectively in maintaining classroom safety parameters.
